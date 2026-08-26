@@ -1,0 +1,1 @@
+Calculates and plots reservoir pressure drawdown around a wellbore using Darcy's radial flow equation, with user input for well/reservoir parameters and a permeability sensitivity comparison. Built with numpy + matplotlib.
